@@ -1,0 +1,52 @@
+
+body {
+    font: 20px;
+    font-family: verdana;
+
+}
+
+.navbar {
+    background-color: #F2F5A9;
+}
+
+.quem-somos {
+    background-color: #A9F5F2;
+    color: black;
+} 
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+h3 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.parceiros {
+    background-color: white;
+}
+
+.texto_p {
+    text-align: justify;
+}
+
+.servicos {
+    background-color: #BCF5A9;
+}
+
+h5 {
+    text-align: center;
+}
+
+.bg-footer{
+background-color: black;
+color: white;
+}
+
+.copyright {
+    color: white;
+    font-size: 13px;
+    margin: 20px 0 0;
+}
